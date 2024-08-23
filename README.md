@@ -1,6 +1,7 @@
 # Построение модели сегментации клиентов онлайн-магазина подарков
 ## Оглавление
 [1. Постановка задачи и цели проекта](https://github.com/dariazvonareva/Project_6_Segmentation_of_online_shop_customers/blob/main/README.md#Постановка-задачи-и-цели-проекта)
+
 [2. Краткая информация о данных](https://github.com/dariazvonareva/Project_6_Segmentation_of_online_shop_customers/blob/main/README.md#Краткая-информация-о-данных)
 
 [3. Этапы проекта](https://github.com/dariazvonareva/Project_6_Segmentation_of_online_shop_customers/blob/main/README.md#Этапы-проекта)
